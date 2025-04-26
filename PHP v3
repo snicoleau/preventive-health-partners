@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Preventive Health Partners</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background-color: #2C3E50;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        section {
+            padding: 20px;
+            margin: 20px;
+        }
+        h1, h2 {
+            color: #2C3E50;
+        }
+        .content-section {
+            background-color: #ffffff;
+            padding: 20px;
+            border-radius: 5px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+        footer {
+            background-color: #2C3E50;
+            color: white;
+            padding: 10px;
+            text-align: center;
+        }
+        .contact-info {
+            margin-top: 20px;
+        }
+        .list {
+            margin-top: 10px;
+            padding-left: 20px;
+        }
+        .list ul {
+            list-style-type: disc;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Preventive Health Partners</h1>
+        <p>Transforming Healthcare with Operational Excellence and Innovation</p>
+    </header>
+
+    <!-- About Us Section -->
+    <section id="about">
+        <div class="content-section">
+            <h2>About Us</h2>
+            <p>I help organizations turn strategy into action by building high-performing teams, creating clear implementation plans, and driving operational excellence. Beyond performance metrics, I’m deeply committed to coaching talent and fostering professional growth. My passion is helping organizations improve care, innovate, and build empowered teams that deliver lasting impact.</p>
+        </div>
+    </section>
+
+    <!-- Operational Excellence Section -->
+    <section id="operational-excellence">
+        <div class="content-section">
+            <h2>Achieving Operational Excellence in Value-Based Care Contracts</h2>
+            <p>We specialize in helping organizations achieve operational excellence through effective leadership, high-performance teams, and strategic care team development. Key outcomes include:</p>
+            <ul>
+                <li>Leading High Performing Teams</li>
+                <li>Coaching leadership on HEDIS STARS & Risk Adjustment</li>
+                <li>Developing compelling Data Analyses to Influence Change & Drive Impact</li>
+                <li>Creating actionable training curricula</li>
+                <li>Building role competencies and career ladders</li>
+            </ul>
+        </div>
+    </section>
+
+    <!-- AI and Impact Section -->
+    <section id="ai-impact">
+        <div class="content-section">
+            <h2>AI in Healthcare: Why It’s Important</h2>
+            <p>In 2024, 66% of Physicians reported using healthcare AI, marking a 78% increase from 38% in 2023. Applications include clinical documentation, billing code generation, and assistive diagnostics, with AI also used in patient outreach and scheduling.</p>
+            <p><strong>Physicians’ Perspective:</strong></p>
+            <p>"AI has been the best tool for improving my healthcare efficiency... It makes things easier. The notes are concise, well-organized, legally robust, and never include imaginary diagnoses." – Nabla, General Medicine Physician, April 2024</p>
+            <p>"A family medicine doctor reported a significant reduction in time spent on patient documentation—from an additional 10–20 hours weekly to just 15 minutes daily—after integrating Suki AI into her practice." – Business Insider, September 25, 2024</p>
+        </div>
+    </section>
+
+    <!-- Key Results & Impact Section -->
+    <section id="key-results">
+        <div class="content-section">
+            <h2>Key Results & Impact</h2>
+            <p>Our work with multi-specialty IPAs, including a case study of a 290K patient IPA in NYC, highlights our ability to drive significant change:</p>
+            <div class="list">
+                <ul>
+                    <li>$10M potential in Value-Based Shared Savings</li>
+                    <li>Impact: Nurses expressed high satisfaction with streamlined outreach workflows</li>
+                    <li>Completed 3000 outreach calls in 1 month</li>
+                </ul>
+            </div>
+        </div>
+    </section>
+
+    <!-- How We Help Section -->
+    <section id="how-we-help">
+        <div class="content-section">
+            <h2>How Preventive Health Partners Can Help You</h2>
+            <p>We specialize in developing innovative strategies to improve quality of care and maximize provider incentives. Here's how we can help:</p>
+            <div class="list">
+                <ul>
+                    <li>Leverage AI to offload administrative tasks & coding</li>
+                    <li>Measure success with KPIs and implement continuous improvement structures</li>
+                    <li>Help staff adopt workflow changes positively and motivate high-performing teams</li>
+                    <li>Proactively track outcomes and share them with investors & stakeholders</li>
+                    <li>Gain national recognition with NCQA</li>
+                </ul>
+            </div>
+        </div>
+    </section>
+
+    <!-- Growth Strategy Section -->
+    <section id="growth-strategy">
+        <div class="content-section">
+            <h2>Growth Strategy</h2>
+            <p>Our growth strategy involves rolling out products to high-profile participants and expanding to the public, with careful monitoring and iterative product adjustments.</p>
+        </div>
+    </section>
+
+    <!-- Market Overview Section -->
+    <section id="market-overview">
+        <div class="content-section">
+            <h2>Market Overview</h2>
+            <p>We are building a fully inclusive market, targeting both total addressable and selectively inclusive markets with a focus on cost savings and ease of use for consumers.</p>
+        </div>
+    </section>
+
+    <!-- Contact Us Section -->
+    <footer>
+        <div class="contact-info">
+            <h3>Contact Us</h3>
+            <p>Brita Tamm</p>
+            <p>Phone: 502-555-0152</p>
+            <p>Email: <a href="mailto:brita@firstupconsultants.com" style="color: white;">brita@firstupconsultants.com</a></p>
+            <p>Website: <a href="http://www.firstupconsultants.com" style="color: white;">www.firstupconsultants.com</a></p>
+        </div>
+    </footer>
+</body>
+</html>
